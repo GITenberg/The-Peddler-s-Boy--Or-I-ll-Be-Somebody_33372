@@ -1,0 +1,36 @@
+_repo: The-Peddler-s-Boy--Or-I-ll-Be-Somebody_33372
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33372-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woodworth, Francis C. (Francis Channing)
+    aliases:
+    - Thinker, Theodore
+    - Woodworth, F. C. (Francis Channing)
+    - Woodworth, Francis Channing
+    - Uncle Frank
+    birthdate: 1812
+    deathdate: 1859
+    gutenberg_agent_id: '6789'
+    url: http://www.gutenberg.org/2009/agents/6789
+description: Samuel Bissell, the youngest child of a peddler, decides that he will
+  make something of his life.
+gutenberg_issued: '2010-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Peddlers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: The Peddler's Boy; Or, I'll Be Somebody
+url: http://www.gutenberg.org/ebooks/33372
