@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6789
 description: Samuel Bissell, the youngest child of a peddler, decides that he will
   make something of his life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33372#The-Peddler-s-Boy--Or-I-ll-Be-Somebody
 gutenberg_issued: '2010-08-08'
 gutenberg_type: Text
 identifiers:
